@@ -1,2 +1,2 @@
-# manuelcortes23.github.io
+# Manuel Ernesto Cortes
 Manuel Cortes' Github Pages site
